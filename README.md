@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Prakalya
 
-<!--
-**prakalya27/prakalya27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student | 2nd Year
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student interested in Artificial Intelligence, Data Science and Machine Learning.
+
+- 🌱 Currently learning Python, SQL and Machine Learning
+- 💻 Interested in AI & Data Science
+- 📚 Improving my programming and problem-solving skills
+- 🚀 Building projects and learning through practice
+
+## Skills
+
+- Python
+- SQL
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+
+## Projects
+
+- 💰 FinTech – Loan Affordability Calculator
+- 🔐 PhishGuard – Phishing Detection Project
+
+## Currently Learning
+
+Python • Data Science • Machine Learning • DSA
+
+## Connect With Me
+
+LinkedIn: Add your LinkedIn link here
